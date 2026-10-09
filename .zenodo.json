@@ -1,0 +1,47 @@
+{
+  "title": "Code for: Clinical Praat Parameters and Cepstral Representations for Speaker Independent Voice Pathology Detection: The Influence of Age and Dysphonia Severity (SVD revision)",
+  "upload_type": "software",
+  "license": "MIT",
+  "access_right": "open",
+  "description": "Notebooks, Praat script and session-level tables for the revised version of manuscript JVOICE-D-26-01691 (Journal of Voice). Speaker-independent evaluation on the Saarbrücken Voice Database with control of age and dysphonia severity (AVQI v03.01).",
+  "keywords": [
+    "voice pathology",
+    "Saarbrücken Voice Database",
+    "Praat",
+    "AVQI",
+    "dysphonia severity",
+    "machine learning"
+  ],
+  "creators": [
+    {
+      "name": "Forero Mendoza, Leonardo",
+      "affiliation": "UERJ",
+      "orcid": "0009-0004-8408-1916"
+    },
+    {
+      "name": "Cataldo, Edson",
+      "affiliation": "UFF",
+      "orcid": "0000-0003-4515-2473"
+    },
+    {
+      "name": "de Mello Junior, Harold",
+      "affiliation": "UERJ",
+      "orcid": "0000-0001-6841-1154"
+    },
+    {
+      "name": "Kohler, Manoela",
+      "affiliation": "PUC-Rio",
+      "orcid": "0000-0002-0962-8430"
+    },
+    {
+      "name": "Batista, Evelyn",
+      "affiliation": "PUC-Rio",
+      "orcid": "0000-0001-6672-8318"
+    },
+    {
+      "name": "Pacheco, Marco Aurélio",
+      "affiliation": "PUC-Rio",
+      "orcid": "0000-0002-2381-0183"
+    }
+  ]
+}
